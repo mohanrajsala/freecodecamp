@@ -25,7 +25,7 @@ Note: It doesn't matter whether you declare this CSS above or below pink-text cl
     color: blue;
   }
   #orange-text{
-    color:brown;
+    color:orange;
   }
 </style>
 <h1 id="orange-text" class="pink-text blue-text">Hello World!</h1>
