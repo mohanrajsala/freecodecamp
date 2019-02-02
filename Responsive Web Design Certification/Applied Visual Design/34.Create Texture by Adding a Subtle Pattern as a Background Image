@@ -1,0 +1,7 @@
+Using the url of https://i.imgur.com/MJAkxbh.png, set the background of the whole page with the body selector.
+
+<style>
+  body {
+    background: url(https://i.imgur.com/MJAkxbh.png);
+  }
+</style>
